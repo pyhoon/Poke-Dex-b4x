@@ -1,13 +1,13 @@
 # Poke-Dex-b4x
 Pokemon Finder App in B4X (Android, iOS, Desktop)
 
+Made with ❤ in B4X
+
 **Preview:**
 
-<img src="https://github.com/pyhoon/Poke-Dex-b4x/blob/master/Preview/B4A.png" title="Android" /> &nbsp; 
-<img src="https://github.com/pyhoon/Poke-Dex-b4x/blob/master/Preview/B4i.png" title="iOS" /> &nbsp; 
-<img src="https://github.com/pyhoon/Poke-Dex-b4x/blob/master/Preview/B4J.png" title="Desktop" />
-
-Made with ❤ in B4X
+<img src="https://github.com/pyhoon/Poke-Dex-b4x/blob/main/Preview/B4A.jpg" height="400" title="Android" /> &nbsp; 
+<img src="https://github.com/pyhoon/Poke-Dex-b4x/blob/main/Preview/B4i.png" height="400" title="iOS" /> &nbsp; 
+<img src="https://github.com/pyhoon/Poke-Dex-b4x/blob/main/Preview/B4J.png" height="400" title="Desktop" />
 
 Download Now and Develop for **FREE**
 
