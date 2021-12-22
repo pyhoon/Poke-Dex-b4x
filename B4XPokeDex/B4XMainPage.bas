@@ -48,17 +48,6 @@ Sub FindPokemon (Find As String)
 			Dim Res As Map = j.GetString.As(JSON).ToMap
 			Dim image As String = Res.Get("sprites").As(Map).Get("front_default")
 			Dim PokemonType As String = Res.Get("types").As(List).Get(0).As(Map).Get("type").As(Map).Get("name")
-			
-			'Dim jp As JSONParser
-			'jp.Initialize(j.GetString)
-			'Dim Res As Map = jp.NextObject
-			'Dim Map1 As Map = Res.Get("sprites")
-			'Dim image As String = Map1.Get("front_default")
-			'Dim List1 As List = Res.Get("types")
-			'Dim Map2 As Map = List1.Get(0)
-			'Dim Map3 As Map = Map2.Get("type")
-			'Dim PokemonType As String = Map3.Get("name")
-			
 			DownloadAndSetImage(image)
 			Label1.Text = Find.ToUpperCase
 			Label2.Text = PokemonType
