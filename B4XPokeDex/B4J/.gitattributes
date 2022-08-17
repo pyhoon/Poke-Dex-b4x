@@ -1,0 +1,3 @@
+* linguist-vendored
+*.b4j linguist-vendored=false
+*.bas linguist-vendored=false
